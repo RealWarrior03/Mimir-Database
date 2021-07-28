@@ -1,0 +1,37 @@
+[
+  {
+    "title" : "How To Sell Drugs Online (Fast)",
+    "provider" : "Netflix",
+    "release" : 2021,
+    "seasons" : 3,
+    "episodes" : 18,
+    "fsk" : 16,
+    "netflixID" : "",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 4,
+    "Seasons" : [
+      {
+        "season" : 1,
+        "episodes" : 6
+      },
+      {
+        "season" : 2,
+        "episodes" : 6
+      },
+      {
+        "season" : 3,
+        "episodes" : 6
+      }
+    ],
+    "Genres" : [
+      "genre1",
+      "genre2"
+    ],
+    "updated" : "27. Jul 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  }
+]
