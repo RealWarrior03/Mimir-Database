@@ -15,38 +15,74 @@
       {
         "season" : 1,
         "episodeCount" : 6,
-        "episodes" : {
-          "episode1" : "Nerd Today, Boss Tomorrow",
-          "episode2" : "Life's Not Fair, Get Used to It",
-          "episode3" : "Failure is Not an Option",
-          "episode4" : "If This is Reality, I'm not Interested",
-          "episode5" : "Score Big or Don't Score at All",
-          "episode6" : "If You Are the Smartest One in the Room, You're in the Wrong Room"
-        }
+        "episodes" : [
+          {
+            "title" : "Nerd Today, Boss Tomorrow"
+          },
+          {
+            "title" : "Life's Not Fair, Get Used to It"
+          },
+          {
+            "title" : "Failure is Not an Option"
+          },
+          {
+            "title" : "If This is Reality, I'm not Interested"
+          },
+          {
+            "title" : "Score Big or Don't Score at All"
+          },
+          {
+            "title" : "If You Are the Smartest One in the Room, You're in the Wrong Room"
+          }
+        ]
       },
       {
         "season" : 2,
         "episodeCount" : 6,
-        "episodes" : {
-          "episode1" : "Think Different",
-          "episode2" : "Where Do You Want to Go Today?",
-          "episode3" : "Inspired by Real Life",
-          "episode4" : "Buy It. Sell It. Love It.",
-          "episode5" : "Move Fast and Break Things",
-          "episode6" : "Don't be evil."
-        }
+        "episodes" : [
+          {
+            "title" : "Think Different"
+          },
+          {
+            "title" : "Where Do You Want to Go Today?"
+          },
+          {
+            "title" : "Inspired by Real Life"
+          },
+          {
+            "title" : "Buy It. Sell It. Love It."
+          },
+          {
+            "title" : "Move Fast and Break Things"
+          },
+          {
+            "title" : "Don't be evil."
+          }
+        ]
       },
       {
         "season" : 3,
         "episodeCount" : 6,
-        "episodes" : {
-          "episode1" : "A single failure, a little slip",
-          "episode2" : "A misdemeanor, a little trip",
-          "episode3" : "Does this condemn me, lock me away?",
-          "episode4" : "Before you turn the key, I have one more thing to say",
-          "episode5" : "To make amends, maybe be friends",
-          "episode6" : "Everybody gets a second chance"
-        }
+        "episodes" : [
+          {
+            "title" : "A single failure, a little slip"
+          },
+          {
+            "title" : "A misdemeanor, a little trip"
+          },
+          {
+            "title" : "Does this condemn me, lock me away?"
+          },
+          {
+            "title" : "Before you turn the key, I have one more thing to say"
+          },
+          {
+            "title" : "To make amends, maybe be friends"
+          },
+          {
+            "title" : "Everybody gets a second chance"
+          }
+        ]
       }
     ],
     "Genres" : [
