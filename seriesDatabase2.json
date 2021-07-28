@@ -4,7 +4,7 @@
     "provider" : "Netflix",
     "release" : 2021,
     "seasons" : 3,
-    "episodeCount" : 18,
+    "episodesCount" : 18,
     "fsk" : 16,
     "netflixID" : "",
     "finished" : false,
