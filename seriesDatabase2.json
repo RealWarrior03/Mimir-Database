@@ -1,7 +1,11 @@
 [
   {
     "title" : "How To Sell Drugs Online (Fast)",
-    "provider" : "Netflix",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
     "release" : 2021,
     "seasons" : 3,
     "episodesCount" : 18,
