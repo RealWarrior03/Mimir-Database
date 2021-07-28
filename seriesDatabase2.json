@@ -27,10 +27,10 @@
     ],
     "Genres" : [
       {
-        "Drama"
+        "genre": "Drama"
       },
       {
-        "Krimi"
+        "genre": "Krimi"
       }
     ],
     "updated" : "27. Jul 2021",
