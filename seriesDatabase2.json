@@ -4,33 +4,57 @@
     "provider" : "Netflix",
     "release" : 2021,
     "seasons" : 3,
-    "episodes" : 18,
+    "episodeCount" : 18,
     "fsk" : 16,
     "netflixID" : "",
     "finished" : false,
     "exclusive" : true,
     "available" : true,
     "rating" : 4,
-    "Staffeln" : [
+    "Seasons" : [
       {
         "season" : 1,
-        "episodes" : 6
+        "episodeCount" : 6,
+        "episodes" : {
+          "episode1" : "Nerd Today, Boss Tomorrow",
+          "episode2" : "Life's Not Fair, Get Used to It",
+          "episode3" : "Failure is Not an Option",
+          "episode4" : "If This is Reality, I'm not Interested",
+          "episode5" : "Score Big or Don't Score at All",
+          "episode6" : "If You Are the Smartest One in the Room, You're in the Wrong Room"
+        }
       },
       {
         "season" : 2,
-        "episodes" : 6
+        "episodeCount" : 6,
+        "episodes" : {
+          "episode1" : "Think Different",
+          "episode2" : "Where Do You Want to Go Today?",
+          "episode3" : "Inspired by Real Life",
+          "episode4" : "Buy It. Sell It. Love It.",
+          "episode5" : "Move Fast and Break Things",
+          "episode6" : "Don't be evil."
+        }
       },
       {
         "season" : 3,
-        "episodes" : 6
+        "episodeCount" : 6,
+        "episodes" : {
+          "episode1" : "A single failure, a little slip",
+          "episode2" : "A misdemeanor, a little trip",
+          "episode3" : "Does this condemn me, lock me away?",
+          "episode4" : "Before you turn the key, I have one more thing to say",
+          "episode5" : "To make amends, maybe be friends",
+          "episode6" : "Everybody gets a second chance"
+        }
       }
     ],
     "Genres" : [
       {
-        "genre": "Drama"
+        "genre" : "Drama"
       },
       {
-        "genre": "Krimi"
+        "genre" : "Krimi"
       }
     ],
     "updated" : "27. Jul 2021",
