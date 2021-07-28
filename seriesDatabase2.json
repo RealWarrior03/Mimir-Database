@@ -1,5 +1,452 @@
 [
   {
+    "title" : "Barbaren",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2020,
+    "seasons" : 1,
+    "episodesCount" : 6,
+    "fsk" : 16,
+    "netflixID" : "81024039",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 74,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 6,
+        "episodes" : [
+          {
+            "title" : "Wolf and Eagle"
+          },
+          {
+            "title" : "Vengeance"
+          },
+          {
+            "title" : "On the Edge"
+          },
+          {
+            "title" : "A New Reik"
+          },
+          {
+            "title" : "Treason"
+          },
+          {
+            "title" : "The Battle"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Action & Adventure"
+      },
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "28. Jul 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Better Call Saul",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2020,
+    "seasons" : 5,
+    "episodesCount" : 50,
+    "fsk" : 16,
+    "netflixID" : "80021955",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 84,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Uno"
+          },
+          {
+            "title" : "Mijo"
+          },
+          {
+            "title" : "Nacho"
+          },
+          {
+            "title" : "Hero"
+          },
+          {
+            "title" : "Alpine Shepherd Boy"
+          },
+          {
+            "title" : "Five-O"
+          },
+          {
+            "title" : "Bingo"
+          },
+          {
+            "title" : "RICO"
+          },
+          {
+            "title" : "Pimento"
+          },
+          {
+            "title" : "Marco"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Switch"
+          },
+          {
+            "title" : "Cobbler"
+          },
+          {
+            "title" : "Amarillo"
+          },
+          {
+            "title" : "Gloves Off"
+          },
+          {
+            "title" : "Rebecca"
+          },
+          {
+            "title" : "Bali Ha'i"
+          },
+          {
+            "title" : "Inflatable"
+          },
+          {
+            "title" : "Fifi"
+          },
+          {
+            "title" : "Nailed"
+          },
+          {
+            "title" : "Klick"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Mabel"
+          },
+          {
+            "title" : "Witness"
+          },
+          {
+            "title" : "Sunk Costs"
+          },
+          {
+            "title" : "Sabrosito"
+          },
+          {
+            "title" : "Chicanery"
+          },
+          {
+            "title" : "Off Brand"
+          },
+          {
+            "title" : "Expenses"
+          },
+          {
+            "title" : "Slip"
+          },
+          {
+            "title" : "Fall"
+          },
+          {
+            "title" : "Lantern"
+          }
+        ]
+      },
+      {
+        "season" : 4,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Smoke"
+          },
+          {
+            "title" : "Breathe"
+          },
+          {
+            "title" : "Something Beautiful"
+          },
+          {
+            "title" : "Talk"
+          },
+          {
+            "title" : "Quite a Ride"
+          },
+          {
+            "title" : "Piñata"
+          },
+          {
+            "title" : "Something Stupid"
+          },
+          {
+            "title" : "Coushatta"
+          },
+          {
+            "title" : "Wiedersehen"
+          },
+          {
+            "title" : "Winner"
+          }
+        ]
+      },
+      {
+        "season" : 5,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Magic Man"
+          },
+          {
+            "title" : "50% Off"
+          },
+          {
+            "title" : "The Guy For This"
+          },
+          {
+            "title" : "Namaste"
+          },
+          {
+            "title" : "Dedicado a Max"
+          },
+          {
+            "title" : "Wexler v. Goodman"
+          },
+          {
+            "title" : "JMM"
+          },
+          {
+            "title" : "Bagman"
+          },
+          {
+            "title" : "Bad Choice Road"
+          },
+          {
+            "title" : "Something Unforgivable"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Comedy"
+      },
+      {
+        "genre" : "Crime"
+      },
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "28. Jul 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Big Mouth",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2020,
+    "seasons" : 4,
+    "episodesCount" : 41,
+    "fsk" : 16,
+    "netflixID" : "80117038",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 79,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Ejaculation"
+          },
+          {
+            "title" : "Everybody Bleeds"
+          },
+          {
+            "title" : "Am I Gay?"
+          },
+          {
+            "title" : "Sleepover: A Harrowing Ordeal of Emotional..."
+          },
+          {
+            "title" : "Girls Are Horny Too"
+          },
+          {
+            "title" : "Pillow Talk"
+          },
+          {
+            "title" : "Requiem for a Wet Dream"
+          },
+          {
+            "title" : "The Head Push"
+          },
+          {
+            "title" : "I Survived Jessi's Bat Mitzvah"
+          },
+          {
+            "title" : "The Pornscape"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Am I Normal?"
+          },
+          {
+            "title" : "What Is It About Boobs?"
+          },
+          {
+            "title" : "The Shame Wizard"
+          },
+          {
+            "title" : "Steve the Virgin"
+          },
+          {
+            "title" : "The Planned Parenthood Show"
+          },
+          {
+            "title" : "Drug Buddies"
+          },
+          {
+            "title" : "Guy Town"
+          },
+          {
+            "title" : "Dark Side of the Boob"
+          },
+          {
+            "title" : "Smooch or Share"
+          },
+          {
+            "title" : "The Department of Puberty"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 11,
+        "episodes" : [
+          {
+            "title" : "My Flurry Valentine"
+          },
+          {
+            "title" : "Girls Are Angry Too"
+          },
+          {
+            "title" : "Cellsea"
+          },
+          {
+            "title" : "Obsessed"
+          },
+          {
+            "title" : "Florida"
+          },
+          {
+            "title" : "How To Have An Orgasm"
+          },
+          {
+            "title" : "Duke"
+          },
+          {
+            "title" : "Rankings"
+          },
+          {
+            "title" : "The ASSes"
+          },
+          {
+            "title" : "Disclosure the Movie: The Musical!"
+          },
+          {
+            "title" : "Everybody gets a second chance"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "The New Me"
+          },
+          {
+            "title" : "The Hugest Period Ever"
+          },
+          {
+            "title" : "Poop Madness"
+          },
+          {
+            "title" : "Cafeteria Girls"
+          },
+          {
+            "title" : "A Very Special 9/11 Episode"
+          },
+          {
+            "title" : "Nick Starr"
+          },
+          {
+            "title" : "Four Stories About Hand Stuff"
+          },
+          {
+            "title" : "The Funeral"
+          },
+          {
+            "title" : "Horrority House"
+          },
+          {
+            "title" : "Everybody gets a second chance"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Comedy"
+      },
+      {
+        "genre" : "Animation"
+      }
+    ],
+    "updated" : "28. Jul 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
     "title" : "How To Sell Drugs Online (Fast)",
     "provider" : [
       {
