@@ -21,22 +21,28 @@
         "episodeCount" : 6,
         "episodes" : [
           {
-            "title" : "Wolf and Eagle"
+            "title" : "Wolf and Eagle",
+            "number" : 1
           },
           {
-            "title" : "Vengeance"
+            "title" : "Vengeance",
+            "number" : 2
           },
           {
-            "title" : "On the Edge"
+            "title" : "On the Edge",
+            "number" : 3
           },
           {
-            "title" : "A New Reik"
+            "title" : "A New Reik",
+            "number" : 4
           },
           {
-            "title" : "Treason"
+            "title" : "Treason",
+            "number" : 5
           },
           {
-            "title" : "The Battle"
+            "title" : "The Battle",
+            "number" : 6
           }
         ]
       }
@@ -76,34 +82,44 @@
         "episodeCount" : 10,
         "episodes" : [
           {
-            "title" : "Uno"
+            "title" : "Uno",
+            "number" : 1
           },
           {
-            "title" : "Mijo"
+            "title" : "Mijo",
+            "number" : 2
           },
           {
-            "title" : "Nacho"
+            "title" : "Nacho",
+            "number" : 3
           },
           {
-            "title" : "Hero"
+            "title" : "Hero",
+            "number" : 4
           },
           {
-            "title" : "Alpine Shepherd Boy"
+            "title" : "Alpine Shepherd Boy",
+            "number" : 5
           },
           {
-            "title" : "Five-O"
+            "title" : "Five-O",
+            "number" : 6
           },
           {
-            "title" : "Bingo"
+            "title" : "Bingo",
+            "number" : 7
           },
           {
-            "title" : "RICO"
+            "title" : "RICO",
+            "number" : 8
           },
           {
-            "title" : "Pimento"
+            "title" : "Pimento",
+            "number" : 9
           },
           {
-            "title" : "Marco"
+            "title" : "Marco",
+            "number" : 10
           }
         ]
       },
@@ -112,34 +128,44 @@
         "episodeCount" : 10,
         "episodes" : [
           {
-            "title" : "Switch"
+            "title" : "Switch",
+            "number" : 1
           },
           {
-            "title" : "Cobbler"
+            "title" : "Cobbler",
+            "number" : 2
           },
           {
-            "title" : "Amarillo"
+            "title" : "Amarillo",
+            "number" : 3
           },
           {
-            "title" : "Gloves Off"
+            "title" : "Gloves Off",
+            "number" : 4
           },
           {
-            "title" : "Rebecca"
+            "title" : "Rebecca",
+            "number" : 5
           },
           {
-            "title" : "Bali Ha'i"
+            "title" : "Bali Ha'i",
+            "number" : 6
           },
           {
-            "title" : "Inflatable"
+            "title" : "Inflatable",
+            "number" : 7
           },
           {
-            "title" : "Fifi"
+            "title" : "Fifi",
+            "number" : 8
           },
           {
-            "title" : "Nailed"
+            "title" : "Nailed",
+            "number" : 9
           },
           {
-            "title" : "Klick"
+            "title" : "Klick",
+            "number" : 10
           }
         ]
       },
@@ -442,6 +468,908 @@
       }
     ],
     "updated" : "28. Jul 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Biohackers",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2021,
+    "seasons" : 2,
+    "episodesCount" : 12,
+    "fsk" : 12,
+    "netflixID" : "81011660",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 76,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 6,
+        "episodes" : [
+          {
+            "title" : "Ankunft"
+          },
+          {
+            "title" : "Geheimnisse"
+          },
+          {
+            "title" : "Verdacht"
+          },
+          {
+            "title" : "Gewissheit"
+          },
+          {
+            "title" : "Verrat"
+          },
+          {
+            "title" : "Bestimmung"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 6,
+        "episodes" : [
+          {
+            "title" : "Aufwachen"
+          },
+          {
+            "title" : "Feinde"
+          },
+          {
+            "title" : "Partner"
+          },
+          {
+            "title" : "Vergessen"
+          },
+          {
+            "title" : "Finden"
+          },
+          {
+            "title" : "Don't be evil."
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      },
+      {
+        "genre" : "Sci-Fi & Fantasy"
+      },
+      {
+        "genre" : "Action & Adventure"
+      },
+      {
+        "genre" : "Mystery"
+      }
+    ],
+    "updated" : "07. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Bodyguard",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2021,
+    "seasons" : 1,
+    "episodesCount" : 6,
+    "fsk" : 16,
+    "netflixID" : "80235864",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 79,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 6,
+        "episodes" : [
+          {
+            "title" : "Episode 1"
+          },
+          {
+            "title" : "Episode 2"
+          },
+          {
+            "title" : "Episode 3"
+          },
+          {
+            "title" : "Episode 4"
+          },
+          {
+            "title" : "Episode 5"
+          },
+          {
+            "title" : "Episode 6"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "War & Politics"
+      },
+      {
+        "genre" : "Krimi"
+      },
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "07. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Breaking Bad",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2018,
+    "seasons" : 5,
+    "episodesCount" : 62,
+    "fsk" : 16,
+    "netflixID" : "70143836",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 87,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 7,
+        "episodes" : [
+          {
+            "title" : "Pilot"
+          },
+          {
+            "title" : "Cat's in the Bag..."
+          },
+          {
+            "title" : "...And the Bag's in the River"
+          },
+          {
+            "title" : "Cancer Man"
+          },
+          {
+            "title" : "Gray Matter"
+          },
+          {
+            "title" : "Crazy Handful of Nothing'"
+          },
+          {
+            "title" : "Episode 6"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Seven Thirty-Seven"
+          },
+          {
+            "title" : "Grilled"
+          },
+          {
+            "title" : "Bit by a Dead Bee"
+          },
+          {
+            "title" : "Down"
+          },
+          {
+            "title" : "Breakage"
+          },
+          {
+            "title" : "Peekaboo"
+          },
+          {
+            "title" : "Negro y Azul"
+          },
+          {
+            "title" : "Better Call Saul"
+          },
+          {
+            "title" : "4 Days Out"
+          },
+          {
+            "title" : "Over"
+          },
+          {
+            "title" : "Mandala"
+          },
+          {
+            "title" : "Phoenix"
+          },
+          {
+            "title" : "ABQ"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "No Más"
+          },
+          {
+            "title" : "Caballo sin Nombre"
+          },
+          {
+            "title" : "I.F.T."
+          },
+          {
+            "title" : "Green Light"
+          },
+          {
+            "title" : "Más"
+          },
+          {
+            "title" : "Sunset"
+          },
+          {
+            "title" : "One Minute"
+          },
+          {
+            "title" : "I See You"
+          },
+          {
+            "title" : "Kafkaesque"
+          },
+          {
+            "title" : "Fly"
+          },
+          {
+            "title" : "Abiquiu"
+          },
+          {
+            "title" : "Half Measures"
+          },
+          {
+            "title" : "Full Measure"
+          }
+        ]
+      },
+      {
+        "season" : 4,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Box Cutter"
+          },
+          {
+            "title" : "Thirty-Eight Snub"
+          },
+          {
+            "title" : "Open House"
+          },
+          {
+            "title" : "Bullet Points"
+          },
+          {
+            "title" : "Shotgun"
+          },
+          {
+            "title" : "Cornered"
+          },
+          {
+            "title" : "Problem Dog"
+          },
+          {
+            "title" : "Hermanos"
+          },
+          {
+            "title" : "Bug"
+          },
+          {
+            "title" : "Salud"
+          },
+          {
+            "title" : "Crawl Space"
+          },
+          {
+            "title" : "End Times"
+          },
+          {
+            "title" : "Episode 6"
+          }
+        ]
+      },
+      {
+        "season" : 5,
+        "episodeCount" : 16,
+        "episodes" : [
+          {
+            "title" : "Live Free or Die"
+          },
+          {
+            "title" : "Madrigal"
+          },
+          {
+            "title" : "Hazard Pay"
+          },
+          {
+            "title" : "Fifty-One"
+          },
+          {
+            "title" : "Dead Freight"
+          },
+          {
+            "title" : "Buyout"
+          },
+          {
+            "title" : "Say My Name"
+          },
+          {
+            "title" : "Gliding Over All"
+          },
+          {
+            "title" : "Blood Money"
+          },
+          {
+            "title" : "Buried"
+          },
+          {
+            "title" : "Confessions"
+          },
+          {
+            "title" : "Rabid Dog"
+          },
+          {
+            "title" : "To'hajiilee"
+          },
+          {
+            "title" : "Ozymandias"
+          },
+          {
+            "title" : "Granite State"
+          },
+          {
+            "title" : "Felina"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "07. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Bridgerton",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2021,
+    "seasons" : 1,
+    "episodesCount" : 8,
+    "fsk" : 16,
+    "netflixID" : "80232398",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 82,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "Diamond of the First Water"
+          },
+          {
+            "title" : "Shock and Delight"
+          },
+          {
+            "title" : "Art of the Swoon"
+          },
+          {
+            "title" : "An Affair of Honor"
+          },
+          {
+            "title" : "The Duke and I"
+          },
+          {
+            "title" : "Swish"
+          },
+          {
+            "title" : "Oceans Apart"
+          },
+          {
+            "title" : "After the Rain"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "07. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : "S2 confirmed"
+  },
+  {
+    "title" : "Brooklyn Nine-Nine",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2021,
+    "seasons" : 6,
+    "episodesCount" : 130,
+    "fsk" : 12,
+    "netflixID" : "70281562",
+    "finished" : false,
+    "exclusive" : false,
+    "available" : true,
+    "rating" : 82,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 22,
+        "episodes" : [
+          {
+            "title" : "Pilot"
+          },
+          {
+            "title" : "The Tagger"
+          },
+          {
+            "title" : "The Slump"
+          },
+          {
+            "title" : "M.E. Time"
+          },
+          {
+            "title" : "The Vulture"
+          },
+          {
+            "title" : "Halloween"
+          },
+          {
+            "title" : "48 Hours"
+          },
+          {
+            "title" : "Old School"
+          },
+          {
+            "title" : "Sal's Pizza"
+          },
+          {
+            "title" : "Thanksgiving"
+          },
+          {
+            "title" : "Christmas"
+          },
+          {
+            "title" : "Pontiac Bandit"
+          },
+          {
+            "title" : "The Bet"
+          },
+          {
+            "title" : "The Ebony Falcon"
+          },
+          {
+            "title" : "Operation: Broken Feather"
+          },
+          {
+            "title" : "The Party"
+          },
+          {
+            "title" : "Full Boyle"
+          },
+          {
+            "title" : "The Apartment"
+          },
+          {
+            "title" : "Tactical Village"
+          },
+          {
+            "title" : "Fancy Brudgom"
+          },
+          {
+            "title" : "Unsolvable"
+          },
+          {
+            "title" : "Charges and Specs"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 23,
+        "episodes" : [
+          {
+            "title" : "Undercover"
+          },
+          {
+            "title" : "Chocolate Milk"
+          },
+          {
+            "title" : "The Jimmy Jab Games"
+          },
+          {
+            "title" : "Halloween II"
+          },
+          {
+            "title" : "The Mole"
+          },
+          {
+            "title" : "Jake and Sophia"
+          },
+          {
+            "title" : "Lockdown"
+          },
+          {
+            "title" : "USPIS"
+          },
+          {
+            "title" : "The Road Trip"
+          },
+          {
+            "title" : "The Pontiac Bandit Returns"
+          },
+          {
+            "title" : "Stakeout"
+          },
+          {
+            "title" : "Beach House"
+          },
+          {
+            "title" : "Payback"
+          },
+          {
+            "title" : "Defense Rests"
+          },
+          {
+            "title" : "Windbreaker City"
+          },
+          {
+            "title" : "The Wednesday Incident"
+          },
+          {
+            "title" : "Boyle-Linetti Wedding"
+          },
+          {
+            "title" : "Captain Peralta"
+          },
+          {
+            "title" : "Sabotage"
+          },
+          {
+            "title" : "AC/DC"
+          },
+          {
+            "title" : "Det. Dave Majors"
+          },
+          {
+            "title" : "The Chooper"
+          },
+          {
+            "title" : "Johnny and Dora"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 23,
+        "episodes" : [
+          {
+            "title" : "New Captain"
+          },
+          {
+            "title" : "The Funeral"
+          },
+          {
+            "title" : "Boyle's Hunch"
+          },
+          {
+            "title" : "The Oolong Slayer"
+          },
+          {
+            "title" : "Halloween III"
+          },
+          {
+            "title" : "Into the Woods"
+          },
+          {
+            "title" : "The Mattress"
+          },
+          {
+            "title" : "Ava"
+          },
+          {
+            "title" : "The Swedes"
+          },
+          {
+            "title" : "Yippie Kayak"
+          },
+          {
+            "title" : "Hostage Situation"
+          },
+          {
+            "title" : "9 Days"
+          },
+          {
+            "title" : "The Cruise"
+          },
+          {
+            "title" : "Karen Peralta"
+          },
+          {
+            "title" : "The 9-8"
+          },
+          {
+            "title" : "House Mouses"
+          },
+          {
+            "title" : "Adrian Pimento"
+          },
+          {
+            "title" : "Cheddar"
+          },
+          {
+            "title" : "Terry Kitties"
+          },
+          {
+            "title" : "Paranoia"
+          },
+          {
+            "title" : "Maximum Security"
+          },
+          {
+            "title" : "Bureau"
+          },
+          {
+            "title" : "After the Rain"
+          }
+        ]
+      },
+      {
+        "season" : 4,
+        "episodeCount" : 22,
+        "episodes" : [
+          {
+            "title" : "Coral Palms, Part 1"
+          },
+          {
+            "title" : "Coral Palms, Part 2"
+          },
+          {
+            "title" : "Coral Palms, Part 3"
+          },
+          {
+            "title" : "The Night Shift (I)"
+          },
+          {
+            "title" : "Halloween IV"
+          },
+          {
+            "title" : "Monster in the Closet"
+          },
+          {
+            "title" : "Mr. Santiago"
+          },
+          {
+            "title" : "Skyfire Cycle"
+          },
+          {
+            "title" : "The Overmining"
+          },
+          {
+            "title" : "Captain Latvia"
+          },
+          {
+            "title" : "The Fugitive, Part 1"
+          },
+          {
+            "title" : "The Fugitive, Part 2"
+          },
+          {
+            "title" : "The Audit"
+          },
+          {
+            "title" : "Serve & Protect"
+          },
+          {
+            "title" : "The Last Ride"
+          },
+          {
+            "title" : "Moo Moo"
+          },
+          {
+            "title" : "Cop-Con"
+          },
+          {
+            "title" : "Chasing Amy"
+          },
+          {
+            "title" : "Your Honor"
+          },
+          {
+            "title" : "The Slaughterhouse"
+          },
+          {
+            "title" : "The Bank Job"
+          },
+          {
+            "title" : "Crime & Punishment"
+          }
+        ]
+      },
+      {
+        "season" : 5,
+        "episodeCount" : 22,
+        "episodes" : [
+          {
+            "title" : "The Big House Pt.1"
+          },
+          {
+            "title" : "The Big House Pt.2"
+          },
+          {
+            "title" : "Kicks"
+          },
+          {
+            "title" : "HalloVenn"
+          },
+          {
+            "title" : "Bad Beat"
+          },
+          {
+            "title" : "The Venue"
+          },
+          {
+            "title" : "Two Turkeys"
+          },
+          {
+            "title" : "Return to Skyfire"
+          },
+          {
+            "title" : "99"
+          },
+          {
+            "title" : "Game Night"
+          },
+          {
+            "title" : "The Favor"
+          },
+          {
+            "title" : "Safe House"
+          },
+          {
+            "title" : "The Negotiation"
+          },
+          {
+            "title" : "The Box"
+          },
+          {
+            "title" : "The Puzzle Master"
+          },
+          {
+            "title" : "NutriBoom"
+          },
+          {
+            "title" : "DFW"
+          },
+          {
+            "title" : "Gray Star Mutual"
+          },
+          {
+            "title" : "Bachelor/ette Party"
+          },
+          {
+            "title" : "Show Me Going"
+          },
+          {
+            "title" : "White Whale"
+          },
+          {
+            "title" : "Jake & Amy"
+          }
+        ]
+      },
+      {
+        "season" : 6,
+        "episodeCount" : 18,
+        "episodes" : [
+          {
+            "title" : "Honeymoon"
+          },
+          {
+            "title" : "Hitchcock & Scully"
+          },
+          {
+            "title" : "The Tattler"
+          },
+          {
+            "title" : "Four Movements"
+          },
+          {
+            "title" : "A Tale of Two Bandits"
+          },
+          {
+            "title" : "The Crime Scene"
+          },
+          {
+            "title" : "The Honeypot"
+          },
+          {
+            "title" : "He Said, She Said"
+          },
+          {
+            "title" : "The Golden Child"
+          },
+          {
+            "title" : "Gintars"
+          },
+          {
+            "title" : "The Therapist"
+          },
+          {
+            "title" : "Casecation"
+          },
+          {
+            "title" : "The Bimbo"
+          },
+          {
+            "title" : "Ticking Clocks"
+          },
+          {
+            "title" : "Return of the King"
+          },
+          {
+            "title" : "Cinco de Mayo"
+          },
+          {
+            "title" : "Sicko (1)"
+          },
+          {
+            "title" : "Suicide Squad (2)"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Comedy"
+      },
+      {
+        "genre" : "Crime"
+      }
+    ],
+    "updated" : "07. Aug 2021",
     "version" : "1.0",
     "added" : "26. Feb 2021",
     "info" : ""
