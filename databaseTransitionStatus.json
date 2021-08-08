@@ -1,10 +1,12 @@
 [
   {
     "date": "27. Jul 2021",
-    "info": "4 tv shows"
+    "info": "4 tv shows",
+    "amount": 4
   },
   {
     "date": "06. Aug 2021",
-    "info": "5 tv shows"
+    "info": "5 tv shows",
+    "amount": 5
   }
 ]
