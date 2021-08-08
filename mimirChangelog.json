@@ -1,0 +1,165 @@
+[
+    {
+        "version": "V1",
+        "news": [
+            {
+                "name": "New Series",
+                "value": "52"
+            },
+            {
+                "name": "Database started",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "28. Feb 2021"
+            }
+        ]
+    },
+    {
+        "version": "V1.1",
+        "news": [
+            {
+                "name": "New Series",
+                "value": "11"
+            },
+            {
+                "name": "Updated Data",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "08. Mar 2021"
+            }
+        ]
+    },
+    {
+        "version": "V1.2",
+        "news": [
+            {
+                "name": "New Series",
+                "value": "18"
+            },
+            {
+                "name": "Updated Data",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "04. Jun 2021"
+            }
+        ]
+    },
+    {
+        "version": "V1.3",
+        "news": [
+            {
+                "name": "Availability Check for every series",
+                "value": ""
+            },
+            {
+                "name": "FSK Check for every series",
+                "value": ""
+            },
+            {
+                "name": "Info for every series",
+                "value": ""
+            },
+            {
+                "name": "New Series",
+                "value": "15"
+            },
+            {
+                "name": "Updated Data",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "12. Jun 2021"
+            }
+        ]
+    },
+    {
+        "version": "V2",
+        "news": [
+            {
+                "name": "Redesigned database view",
+                "value": ""
+            },
+            {
+                "name": "Rewritten database",
+                "value": ""
+            },
+            {
+                "name": "1-5 star rating for every series",
+                "value": ""
+            },
+            {
+                "name": "Link for every Netflix series",
+                "value": ""
+            },
+            {
+                "name": "Show episodes for every season",
+                "value": ""
+            },
+            {
+                "name": "New Series",
+                "value": "--"
+            },
+            {
+                "name": "Updated Data",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "September 2021"
+            }
+        ]
+    },
+    {
+        "version": "V3",
+        "news": [
+            {
+                "name": "Mark your favorite series",
+                "value": ""
+            },
+            {
+                "name": "Add any series to your watchlist",
+                "value": ""
+            },
+            {
+                "name": "New Series",
+                "value": "--"
+            },
+            {
+                "name": "Updated Data",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "Early 2022"
+            }
+        ]
+    },
+    {
+        "version": "V4",
+        "news": [
+            {
+                "name": "Add your comments to any series",
+                "value": ""
+            },
+            {
+                "name": "New Series",
+                "value": "--"
+            },
+            {
+                "name": "Updated Data",
+                "value": ""
+            },
+            {
+                "name": "Release",
+                "value": "Summer 2022"
+            }
+        ]
+    }
+]
