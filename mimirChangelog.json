@@ -17,7 +17,7 @@
         ]
     },
     {
-        "version": "V0.1.1",
+        "version": "V1",
         "news": [
             {
                 "name": "New Series",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "version": "V0.1.2",
+        "version": "V1.1",
         "news": [
             {
                 "name": "New Series",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "version": "V0.1.3",
+        "version": "V1.2",
         "news": [
             {
                 "name": "Availability Check for every series",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "version": "V1",
+        "version": "V2",
         "news": [
             {
                 "name": "Redesigned database view",
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "version": "V2",
+        "version": "V2.1",
         "news": [
             {
                 "name": "Mark your favorite series",
