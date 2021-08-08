@@ -1,14 +1,14 @@
 [
   {
     "date": "22. Jun 2021",
-    "info" "V1.5 delayed"
+    "info": "V1.5 delayed"
   },
   {
     "date": "26. Jun 2021",
-    "info" "V1.5 canceled due to redesign with V2"
+    "info": "V1.5 canceled due to redesign with V2"
   },
   {
     "date": "28. Jul 2021",
-    "info" "V2 will bring a huge redesign as well as a new database rewritten from the ground up"
+    "info": "V2 will bring a huge redesign as well as a new database rewritten from the ground up"
   }
 ]
