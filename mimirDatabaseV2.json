@@ -494,22 +494,22 @@
         "episodeCount" : 6,
         "episodes" : [
           {
-            "title" : "Ankunft"
+            "title" : "Arrival"
           },
           {
-            "title" : "Geheimnisse"
+            "title" : "Secrets"
           },
           {
-            "title" : "Verdacht"
+            "title" : "Suspicion"
           },
           {
-            "title" : "Gewissheit"
+            "title" : "Certainty"
           },
           {
-            "title" : "Verrat"
+            "title" : "Betrayal"
           },
           {
-            "title" : "Bestimmung"
+            "title" : "Fate"
           }
         ]
       },
@@ -518,22 +518,22 @@
         "episodeCount" : 6,
         "episodes" : [
           {
-            "title" : "Aufwachen"
+            "title" : "Awake"
           },
           {
-            "title" : "Feinde"
+            "title" : "Enemies"
           },
           {
-            "title" : "Partner"
+            "title" : "Partners"
           },
           {
-            "title" : "Vergessen"
+            "title" : "Forget"
           },
           {
-            "title" : "Finden"
+            "title" : "Find"
           },
           {
-            "title" : "Don't be evil."
+            "title" : "Remember"
           }
         ]
       }
@@ -1370,6 +1370,2091 @@
       }
     ],
     "updated" : "07. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "The Queen's Gambit",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2020,
+    "seasons" : 1,
+    "episodesCount" : 7,
+    "fsk" : 16,
+    "netflixID" : "80234304",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 87,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 7,
+        "episodes" : [
+          {
+            "title" : "Openings"
+          },
+          {
+            "title" : "Exchanges"
+          },
+          {
+            "title" : "Doubled Pawns"
+          },
+          {
+            "title" : "Middle Game"
+          },
+          {
+            "title" : "Fork"
+          },
+          {
+            "title" : "Adjournment"
+          },
+          {
+            "title" : "End Game"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Defending Jacob",
+    "provider" : [
+      {
+        "name" : "Apple TV+"
+      }
+    ],
+    "release" : 2020,
+    "seasons" : 1,
+    "episodesCount" : 8,
+    "fsk" : 16,
+    "netflixID" : "0",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 85,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "Pilot"
+          },
+          {
+            "title" : "Everything Is Cool"
+          },
+          {
+            "title" : "Poker Faces"
+          },
+          {
+            "title" : "Damage Control"
+          },
+          {
+            "title" : "Visitors"
+          },
+          {
+            "title" : "Wishful Thinking"
+          },
+          {
+            "title" : "Job"
+          },
+          {
+            "title" : "After"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      },
+      {
+        "genre" : "Mystery"
+      },
+      {
+        "genre" : "Crime"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Dynasty",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2017,
+    "seasons" : 4,
+    "episodesCount" : 79,
+    "fsk" : 16,
+    "netflixID" : "80179394",
+    "finished" : true,
+    "exclusive" : false,
+    "available" : true,
+    "rating" : 82,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 22,
+        "episodes" : [
+          {
+            "title" : "I Hardly Recognized You"
+          },
+          {
+            "title" : "Spit It Out"
+          },
+          {
+            "title" : "Guilt Is for Insecure People"
+          },
+          {
+            "title" : "Private as a Circus"
+          },
+          {
+            "title" : "Company Slut"
+          },
+          {
+            "title" : "I Exist Only for Me"
+          },
+          {
+            "title" : "A Taste of Your Own Medicine"
+          },
+          {
+            "title" : "The Best Things in Life"
+          },
+          {
+            "title" : "Rotten Things"
+          },
+          {
+            "title" : "A Well-Dressed Tarantula"
+          },
+          {
+            "title" : "I Answer to No Man"
+          },
+          {
+            "title" : "Promises You Can't Keep"
+          },
+          {
+            "title" : "Nothing but Trouble"
+          },
+          {
+            "title" : "The Gospel According to Blake Carrington"
+          },
+          {
+            "title" : "Our Turn Now"
+          },
+          {
+            "title" : "Poor Little Rich Girl"
+          },
+          {
+            "title" : "Enter Alexis"
+          },
+          {
+            "title" : "Don't Con a Con Artist"
+          },
+          {
+            "title" : "Use or Be Used"
+          },
+          {
+            "title" : "A Line From the Past"
+          },
+          {
+            "title" : "Trashy Little Tramp"
+          },
+          {
+            "title" : "Dead Scratch"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 22,
+        "episodes" : [
+          {
+            "title" : "Twenty-Three Skidoo"
+          },
+          {
+            "title" : "Ship of Vipers"
+          },
+          {
+            "title" : "The Butler Did It"
+          },
+          {
+            "title" : "Snowflakes in Hell"
+          },
+          {
+            "title" : "Queen of Cups"
+          },
+          {
+            "title" : "That Witch"
+          },
+          {
+            "title" : "A Temporary Infestation"
+          },
+          {
+            "title" : "A Real Instinct for the Jugular"
+          },
+          {
+            "title" : "Crazy Lady"
+          },
+          {
+            "title" : "A Champagne Mood"
+          },
+          {
+            "title" : "The Sight of You"
+          },
+          {
+            "title" : "Filthy Games"
+          },
+          {
+            "title" : "Even Worms Can Procreate"
+          },
+          {
+            "title" : "Parisian Legend Has It..."
+          },
+          {
+            "title" : "Motherly Overprotectiveness"
+          },
+          {
+            "title" : "Miserably Ungrateful Men"
+          },
+          {
+            "title" : "How Two-Faced Can You Get"
+          },
+          {
+            "title" : "Life Is A Masquerade Party"
+          },
+          {
+            "title" : "This Illness of Mine"
+          },
+          {
+            "title" : "New Lady In Town"
+          },
+          {
+            "title" : "Thicker Than Money"
+          },
+          {
+            "title" : "Deception, Jealously, and Lies"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 20,
+        "episodes" : [
+          {
+            "title" : "Guilt Trip To Alaska"
+          },
+          {
+            "title" : "Caution Never Won a War"
+          },
+          {
+            "title" : "Wild Ghost Chase"
+          },
+          {
+            "title" : "Something Desperate"
+          },
+          {
+            "title" : "Mother? I'm at La Mirage"
+          },
+          {
+            "title" : "A Used Up Memory"
+          },
+          {
+            "title" : "Shoot From the Hip"
+          },
+          {
+            "title" : "The Sensational Blake Carrington Trial"
+          },
+          {
+            "title" : "The Caviar, I Trust, Is Not Burned"
+          },
+          {
+            "title" : "What Sorrows Are You Drowning?"
+          },
+          {
+            "title" : "A Wound That May Never Heal"
+          },
+          {
+            "title" : "Battle Lines"
+          },
+          {
+            "title" : "You See Most Things in Terms of Black & White"
+          },
+          {
+            "title" : "That Wicked Stepmother"
+          },
+          {
+            "title" : "Up a Tree"
+          },
+          {
+            "title" : "Is the Next Surgery on the House?"
+          },
+          {
+            "title" : "She Cancelled..."
+          },
+          {
+            "title" : "You Make Being a Priest Sound Like Something Bad"
+          },
+          {
+            "title" : "Robin Hood Rescues"
+          },
+          {
+            "title" : "My Hangover's Arrived"
+          }
+        ]
+      },
+      {
+        "season" : 4,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "That Unfortunate Dinner"
+          },
+          {
+            "title" : "Vows Are Still Sacred"
+          },
+          {
+            "title" : "The Aftermath"
+          },
+          {
+            "title" : "Everybody Loves The Carringtons"
+          },
+          {
+            "title" : "New Hopes, New Beginnings"
+          },
+          {
+            "title" : "A Little Father-Daughter Chat"
+          },
+          {
+            "title" : "The Birthday Party"
+          },
+          {
+            "title" : "Your Sick and Self-Serving Vendetta"
+          },
+          {
+            "title" : "Equal Justice for the Rich"
+          },
+          {
+            "title" : "I Hate to Spoil Your Memories"
+          },
+          {
+            "title" : "A Public Forum for Her Lies"
+          },
+          {
+            "title" : "Everything but Facing Reality"
+          },
+          {
+            "title" : "Go Rescue Someone Else"
+          },
+          {
+            "title" : "But I Don't Nedd Therapy"
+          },
+          {
+            "title" : "She Lives in a Showplace Penthouse"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      },
+      {
+        "genre" : "Soap"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Designated Survivor",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2016,
+    "seasons" : 3,
+    "episodesCount" : 53,
+    "fsk" : 12,
+    "netflixID" : "80113647",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 72,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 21,
+        "episodes" : [
+          {
+            "title" : "Pilot"
+          },
+          {
+            "title" : "The First Day"
+          },
+          {
+            "title" : "The Confession"
+          },
+          {
+            "title" : "The Enemy"
+          },
+          {
+            "title" : "The Mission"
+          },
+          {
+            "title" : "The Interrogation"
+          },
+          {
+            "title" : "The Traitor"
+          },
+          {
+            "title" : "The Results"
+          },
+          {
+            "title" : "The Blueprint"
+          },
+          {
+            "title" : "The Oath"
+          },
+          {
+            "title" : "Warriors"
+          },
+          {
+            "title" : "The End of the Beginning"
+          },
+          {
+            "title" : "Backfire"
+          },
+          {
+            "title" : "Commander-in-Chief"
+          },
+          {
+            "title" : "One Hundred Days"
+          },
+          {
+            "title" : "Party Lines"
+          },
+          {
+            "title" : "The Ninth Seat"
+          },
+          {
+            "title" : "Lazarus"
+          },
+          {
+            "title" : "Misalliance"
+          },
+          {
+            "title" : "Bombshell"
+          },
+          {
+            "title" : "Brace for Impact"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 22,
+        "episodes" : [
+          {
+            "title" : "One Year In"
+          },
+          {
+            "title" : "String of the Tail"
+          },
+          {
+            "title" : "Outbreak"
+          },
+          {
+            "title" : "Equilibrium"
+          },
+          {
+            "title" : "Suckers"
+          },
+          {
+            "title" : "Two Ships"
+          },
+          {
+            "title" : "Family Ties"
+          },
+          {
+            "title" : "Home"
+          },
+          {
+            "title" : "Three-Letter Day"
+          },
+          {
+            "title" : "Line of Fire"
+          },
+          {
+            "title" : "Grief"
+          },
+          {
+            "title" : "The Final Frontier"
+          },
+          {
+            "title" : "Original Sin"
+          },
+          {
+            "title" : "In the Dark"
+          },
+          {
+            "title" : "Summit"
+          },
+          {
+            "title" : "Fallout"
+          },
+          {
+            "title" : "Overkill"
+          },
+          {
+            "title" : "Kirkman Agonistes"
+          },
+          {
+            "title" : "Capacity"
+          },
+          {
+            "title" : "Bad Reception"
+          },
+          {
+            "title" : "Target"
+          },
+          {
+            "title" : "Run"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "#thesystemisbroken"
+          },
+          {
+            "title" : "#slipperyslope"
+          },
+          {
+            "title" : "#privacyplease"
+          },
+          {
+            "title" : "#makehistory"
+          },
+          {
+            "title" : "#nothingpersonal"
+          },
+          {
+            "title" : "#whocares"
+          },
+          {
+            "title" : "#identity/crisis"
+          },
+          {
+            "title" : "#scaredsh*tless"
+          },
+          {
+            "title" : "#undecided"
+          },
+          {
+            "title" : "#truthorconsequences"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      },
+      {
+        "genre" : "War & Politics"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Dickinson",
+    "provider" : [
+      {
+        "name" : "Apple TV+"
+      }
+    ],
+    "release" : 2019,
+    "seasons" : 2,
+    "episodesCount" : 20,
+    "fsk" : 12,
+    "netflixID" : "0",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 87,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Because I could not stop"
+          },
+          {
+            "title" : "I have never seen 'Volcanoes'"
+          },
+          {
+            "title" : "Wild nights"
+          },
+          {
+            "title" : "Alone, I cannot be"
+          },
+          {
+            "title" : "I am afraid to own a Body"
+          },
+          {
+            "title" : "A brief, but patient illness"
+          },
+          {
+            "title" : "We lose - because we win"
+          },
+          {
+            "title" : "There's a certain Slant of light"
+          },
+          {
+            "title" : "'Faith' is a fine invention"
+          },
+          {
+            "title" : "I felt a Funeral, in my Brain"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Before I got my eye put out"
+          },
+          {
+            "title" : "Fame is a fickle food"
+          },
+          {
+            "title" : "The only Ghost I ever saw"
+          },
+          {
+            "title" : "The Daisy follows soft the Sun"
+          },
+          {
+            "title" : "Forbidden Fruit a flavor has"
+          },
+          {
+            "title" : "Split the lark"
+          },
+          {
+            "title" : "Forever - is composed of Nows"
+          },
+          {
+            "title" : "I'm Nobody! Who are you?"
+          },
+          {
+            "title" : "I Like a Look of Agony"
+          },
+          {
+            "title" : "You cannot put a Fire out"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Comedy"
+      },
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Disentchantment",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2018,
+    "seasons" : 3,
+    "episodesCount" : 30,
+    "fsk" : 12,
+    "netflixID" : "80095697",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 75,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "A Princess, an Elf, and a Demon Walk Into a Bar"
+          },
+          {
+            "title" : "For Whom the Pig Oinks"
+          },
+          {
+            "title" : "The Princess of Darkness"
+          },
+          {
+            "title" : "Castle Party Massacre"
+          },
+          {
+            "title" : "Faster, Princess! Kill! Kill!"
+          },
+          {
+            "title" : "Swamp and Circumstance"
+          },
+          {
+            "title" : "Love's Tender Rampage"
+          },
+          {
+            "title" : "The Limits of Immortality"
+          },
+          {
+            "title" : "To Thine Own Elf Be True"
+          },
+          {
+            "title" : "Dreamland Falls"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "The Disenchantress"
+          },
+          {
+            "title" : "Stairway to Hell"
+          },
+          {
+            "title" : "The Very Thing"
+          },
+          {
+            "title" : "The Lonely Heart Is a Hunter"
+          },
+          {
+            "title" : "Our Bodies, Our Elves"
+          },
+          {
+            "title" : "The Dreamland Job"
+          },
+          {
+            "title" : "Love's Slimy Embrace"
+          },
+          {
+            "title" : "In Her Own Write"
+          },
+          {
+            "title" : "The Electric Princess"
+          },
+          {
+            "title" : "Tiabeanie Falls"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Subterranean Homesick Blues"
+          },
+          {
+            "title" : "You're the Bean"
+          },
+          {
+            "title" : "Beanie Gut Your Gun"
+          },
+          {
+            "title" : "Steamland Confidential"
+          },
+          {
+            "title" : "Freak Out!"
+          },
+          {
+            "title" : "Last Splash"
+          },
+          {
+            "title" : "Bad Moon Rising"
+          },
+          {
+            "title" : "Hey, Pig Spender"
+          },
+          {
+            "title" : "The Madness of King Zog"
+          },
+          {
+            "title" : "Bean Falls Down"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Animation"
+      },
+      {
+        "genre" : "Comedy"
+      },
+      {
+        "genre" : "Action & Adventure"
+      },
+      {
+        "genre" : "Mystery"
+      },
+      {
+        "genre" : "Sci-Fi & Fantasy"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Élite",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2018,
+    "seasons" : 4,
+    "episodesCount" : 32,
+    "fsk" : 16,
+    "netflixID" : "80200942",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 82,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "Welcome"
+          },
+          {
+            "title" : "Desire"
+          },
+          {
+            "title" : "Saturday Night"
+          },
+          {
+            "title" : "Love Is a Drug"
+          },
+          {
+            "title" : "Everyone Lies"
+          },
+          {
+            "title" : "Everything Will Be Okay"
+          },
+          {
+            "title" : "Everything Explodes"
+          },
+          {
+            "title" : "Assilah"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "20 hours missing"
+          },
+          {
+            "title" : "34 hours missing"
+          },
+          {
+            "title" : "36 hours missing"
+          },
+          {
+            "title" : "59 hours missing"
+          },
+          {
+            "title" : "63 hours missing"
+          },
+          {
+            "title" : "66 hours missing"
+          },
+          {
+            "title" : "84 hours missing"
+          },
+          {
+            "title" : "0 hours missing"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "Carla"
+          },
+          {
+            "title" : "Samuel and Guzmán"
+          },
+          {
+            "title" : "Cayetana and Valerio"
+          },
+          {
+            "title" : "Lu"
+          },
+          {
+            "title" : "Ander"
+          },
+          {
+            "title" : "Rebeka"
+          },
+          {
+            "title" : "Nadia and Omar"
+          },
+          {
+            "title" : "Polo"
+          }
+        ]
+      },
+      {
+        "season" : 4,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "The New Order"
+          },
+          {
+            "title" : "Five Seconds"
+          },
+          {
+            "title" : "When Lies Dance with Temptation"
+          },
+          {
+            "title" : "I'm A..."
+          },
+          {
+            "title" : "Reintegration"
+          },
+          {
+            "title" : "I Love You All Wrong"
+          },
+          {
+            "title" : "Before I Go (1)"
+          },
+          {
+            "title" : "Before I Go (2)"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Crime"
+      },
+      {
+        "genre" : "Mystery"
+      },
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Final Space",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2018,
+    "seasons" : 4,
+    "episodesCount" : 32,
+    "fsk" : 12,
+    "netflixID" : "80174479",
+    "finished" : false,
+    "exclusive" : false,
+    "available" : true,
+    "rating" : 86,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Chapter One"
+          },
+          {
+            "title" : "Chapter Two"
+          },
+          {
+            "title" : "Chapter Three"
+          },
+          {
+            "title" : "Chapter Four"
+          },
+          {
+            "title" : "Chapter Five"
+          },
+          {
+            "title" : "Chapter Six"
+          },
+          {
+            "title" : "Chapter Seven"
+          },
+          {
+            "title" : "Chapter Eight"
+          },
+          {
+            "title" : "Chapter Nine"
+          },
+          {
+            "title" : "Chapter Ten"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "The Toro Regatta"
+          },
+          {
+            "title" : "The Happy Place"
+          },
+          {
+            "title" : "The Grand Surrender"
+          },
+          {
+            "title" : "The Other Side"
+          },
+          {
+            "title" : "The Notorious Mrs. Goodspeed"
+          },
+          {
+            "title" : "Arachnitects"
+          },
+          {
+            "title" : "The First Times They Met"
+          },
+          {
+            "title" : "The Remembered"
+          },
+          {
+            "title" : "The Closer You Get"
+          },
+          {
+            "title" : "The Lost Spy"
+          },
+          {
+            "title" : "The Set Up"
+          },
+          {
+            "title" : "The Descent Into Darkness"
+          },
+          {
+            "title" : "The Sixth Key"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "...And Into The Fire"
+          },
+          {
+            "title" : "The Hidden Light"
+          },
+          {
+            "title" : "The Ventrexian"
+          },
+          {
+            "title" : "One of Us"
+          },
+          {
+            "title" : "All the Moments Lost"
+          },
+          {
+            "title" : "Change is Gonna Come"
+          },
+          {
+            "title" : "The Chamber of Doubt"
+          },
+          {
+            "title" : "Forgiveness"
+          },
+          {
+            "title" : "Hyper-Transdimensional Bridge Rising"
+          },
+          {
+            "title" : "Until the Sky Falls"
+          },
+          {
+            "title" : "The Dead Speak"
+          },
+          {
+            "title" : "The Leaving"
+          },
+          {
+            "title" : "The Devil's Den"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Animation"
+      },
+      {
+        "genre" : "Action & Adventure"
+      },
+      {
+        "genre" : "Sci-Fi & Fantasy"
+      },
+      {
+        "genre" : "Comedy"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "For All Mankind",
+    "provider" : [
+      {
+        "name" : "Apple TV+"
+      }
+    ],
+    "release" : 2019,
+    "seasons" : 2,
+    "episodesCount" : 20,
+    "fsk" : 12,
+    "netflixID" : "0",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 75,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Red Moon"
+          },
+          {
+            "title" : "He Built The Saturn V"
+          },
+          {
+            "title" : "Nixon's Women"
+          },
+          {
+            "title" : "Prime Crew"
+          },
+          {
+            "title" : "Into the Abyss"
+          },
+          {
+            "title" : "Home Again"
+          },
+          {
+            "title" : "Hi Bob"
+          },
+          {
+            "title" : "Rupture"
+          },
+          {
+            "title" : "Bent Bird"
+          },
+          {
+            "title" : "A City Upon a Hill"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 10,
+        "episodes" : [
+          {
+            "title" : "Every Little Thing"
+          },
+          {
+            "title" : "The Bleeding Edge"
+          },
+          {
+            "title" : "Rules of Engagement"
+          },
+          {
+            "title" : "Pathfinder"
+          },
+          {
+            "title" : "The Weight"
+          },
+          {
+            "title" : "Best-Laid Plans"
+          },
+          {
+            "title" : "Don't Be Cruel"
+          },
+          {
+            "title" : "And Here's to You"
+          },
+          {
+            "title" : "Triage"
+          },
+          {
+            "title" : "The Grey"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Sci-Fi & Fantasy"
+      },
+      {
+        "genre" : "Drama"
+      },
+      {
+        "genre" : "War & Politics"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "Money Heist",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2017,
+    "seasons" : 4,
+    "episodesCount" : 38,
+    "fsk" : 16,
+    "netflixID" : "80192098",
+    "finished" : false,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 83,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Episode One"
+          },
+          {
+            "title" : "Episode Two"
+          },
+          {
+            "title" : "Episode Three"
+          },
+          {
+            "title" : "Episode Four"
+          },
+          {
+            "title" : "Episode Five"
+          },
+          {
+            "title" : "Episode Six"
+          },
+          {
+            "title" : "Episode Seven"
+          },
+          {
+            "title" : "Episode Eight"
+          },
+          {
+            "title" : "Episode Nine"
+          },
+          {
+            "title" : "Episode Ten"
+          },
+          {
+            "title" : "Episode Eleven"
+          },
+          {
+            "title" : "Episode Twelve"
+          },
+          {
+            "title" : "Episode Thirteen"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 9,
+        "episodes" : [
+          {
+            "title" : "Episode One"
+          },
+          {
+            "title" : "Episode Two"
+          },
+          {
+            "title" : "Episode Three"
+          },
+          {
+            "title" : "Episode Four"
+          },
+          {
+            "title" : "Episode Five"
+          },
+          {
+            "title" : "Episode Six"
+          },
+          {
+            "title" : "Episode Seven"
+          },
+          {
+            "title" : "Episode Eight"
+          },
+          {
+            "title" : "Episode Nine"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "We're Back"
+          },
+          {
+            "title" : "Aikido"
+          },
+          {
+            "title" : "48 Meters Underground"
+          },
+          {
+            "title" : "It's Dolphin Time"
+          },
+          {
+            "title" : "Boom, Boom, Ciao"
+          },
+          {
+            "title" : "Everything Seemed Insignificant"
+          },
+          {
+            "title" : "A Quick Vacation"
+          },
+          {
+            "title" : "Astray"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "Game Over"
+          },
+          {
+            "title" : "Berlin's Wedding"
+          },
+          {
+            "title" : "Anatomy Lesson"
+          },
+          {
+            "title" : "Pasodoble"
+          },
+          {
+            "title" : "5 Minutes Earlier"
+          },
+          {
+            "title" : "TKO"
+          },
+          {
+            "title" : "Strike the Tent"
+          },
+          {
+            "title" : "The Paris Plan"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Crime"
+      },
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : "S5 coming on September 03"
+  },
+  {
+    "title" : "House of Cards",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2013,
+    "seasons" : 6,
+    "episodesCount" : 73,
+    "fsk" : 12,
+    "netflixID" : "70178217",
+    "finished" : true,
+    "exclusive" : true,
+    "available" : true,
+    "rating" : 81,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Chapter 1"
+          },
+          {
+            "title" : "Chapter 2"
+          },
+          {
+            "title" : "Chapter 3"
+          },
+          {
+            "title" : "Chapter 4"
+          },
+          {
+            "title" : "Chapter 5"
+          },
+          {
+            "title" : "Chapter 6"
+          },
+          {
+            "title" : "Chapter 7"
+          },
+          {
+            "title" : "Chapter 8"
+          },
+          {
+            "title" : "Chapter 9"
+          },
+          {
+            "title" : "Chapter 10"
+          },
+          {
+            "title" : "Chapter 11"
+          },
+          {
+            "title" : "Chapter 12"
+          },
+          {
+            "title" : "Chapter 13"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Chapter 14"
+          },
+          {
+            "title" : "Chapter 15"
+          },
+          {
+            "title" : "Chapter 16"
+          },
+          {
+            "title" : "Chapter 17"
+          },
+          {
+            "title" : "Chapter 18"
+          },
+          {
+            "title" : "Chapter 19"
+          },
+          {
+            "title" : "Chapter 20"
+          },
+          {
+            "title" : "Chapter 21"
+          },
+          {
+            "title" : "Chapter 22"
+          },
+          {
+            "title" : "Chapter 23"
+          },
+          {
+            "title" : "Chapter 24"
+          },
+          {
+            "title" : "Chapter 25"
+          },
+          {
+            "title" : "Chapter 26"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Chapter 27"
+          },
+          {
+            "title" : "Chapter 28"
+          },
+          {
+            "title" : "Chapter 29"
+          },
+          {
+            "title" : "Chapter 30"
+          },
+          {
+            "title" : "Chapter 31"
+          },
+          {
+            "title" : "Chapter 32"
+          },
+          {
+            "title" : "Chapter 33"
+          },
+          {
+            "title" : "Chapter 34"
+          },
+          {
+            "title" : "Chapter 35"
+          },
+          {
+            "title" : "Chapter 36"
+          },
+          {
+            "title" : "Chapter 37"
+          },
+          {
+            "title" : "Chapter 38"
+          },
+          {
+            "title" : "Chapter 39"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Chapter 40"
+          },
+          {
+            "title" : "Chapter 41"
+          },
+          {
+            "title" : "Chapter 42"
+          },
+          {
+            "title" : "Chapter 43"
+          },
+          {
+            "title" : "Chapter 44"
+          },
+          {
+            "title" : "Chapter 45"
+          },
+          {
+            "title" : "Chapter 46"
+          },
+          {
+            "title" : "Chapter 47"
+          },
+          {
+            "title" : "Chapter 48"
+          },
+          {
+            "title" : "Chapter 49"
+          },
+          {
+            "title" : "Chapter 50"
+          },
+          {
+            "title" : "Chapter 51"
+          },
+          {
+            "title" : "Chapter 52"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 13,
+        "episodes" : [
+          {
+            "title" : "Chapter 53"
+          },
+          {
+            "title" : "Chapter 54"
+          },
+          {
+            "title" : "Chapter 55"
+          },
+          {
+            "title" : "Chapter 56"
+          },
+          {
+            "title" : "Chapter 57"
+          },
+          {
+            "title" : "Chapter 58"
+          },
+          {
+            "title" : "Chapter 59"
+          },
+          {
+            "title" : "Chapter 60"
+          },
+          {
+            "title" : "Chapter 61"
+          },
+          {
+            "title" : "Chapter 62"
+          },
+          {
+            "title" : "Chapter 63"
+          },
+          {
+            "title" : "Chapter 64"
+          },
+          {
+            "title" : "Chapter 65"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 8,
+        "episodes" : [
+          {
+            "title" : "Chapter 66"
+          },
+          {
+            "title" : "Chapter 67"
+          },
+          {
+            "title" : "Chapter 68"
+          },
+          {
+            "title" : "Chapter 69"
+          },
+          {
+            "title" : "Chapter 70"
+          },
+          {
+            "title" : "Chapter 71"
+          },
+          {
+            "title" : "Chapter 72"
+          },
+          {
+            "title" : "Chapter 73"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Drama"
+      }
+    ],
+    "updated" : "08. Aug 2021",
+    "version" : "1.0",
+    "added" : "26. Feb 2021",
+    "info" : ""
+  },
+  {
+    "title" : "How to Get Away with Murder",
+    "provider" : [
+      {
+        "name" : "Netflix"
+      }
+    ],
+    "release" : 2014,
+    "seasons" : 6,
+    "episodesCount" : 90,
+    "fsk" : 16,
+    "netflixID" : "80024057",
+    "finished" : true,
+    "exclusive" : false,
+    "available" : true,
+    "rating" : 79,
+    "SeasonData" : [
+      {
+        "season" : 1,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "Pilot"
+          },
+          {
+            "title" : "It's All Her Fault"
+          },
+          {
+            "title" : "Smile, or Go to Jail"
+          },
+          {
+            "title" : "Let's Get to Scooping"
+          },
+          {
+            "title" : "We're not Friends"
+          },
+          {
+            "title" : "Freakin' Whack-a-Mole"
+          },
+          {
+            "title" : "He Deserved to Die"
+          },
+          {
+            "title" : "He Has a Wife"
+          },
+          {
+            "title" : "Kill Me, Kill Me, Kill Me"
+          },
+          {
+            "title" : "Hello Raskolnikov"
+          },
+          {
+            "title" : "Best Christmas Ever"
+          },
+          {
+            "title" : "She's a Murderer"
+          },
+          {
+            "title" : "Mama's Here Now"
+          },
+          {
+            "title" : "The Night Lila Died"
+          },
+          {
+            "title" : "It's All My Fault"
+          }
+        ]
+      },
+      {
+        "season" : 2,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "It's Time to Move On"
+          },
+          {
+            "title" : "She's Dying"
+          },
+          {
+            "title" : "It's Called the Octopus"
+          },
+          {
+            "title" : "Skanks Get Shanked"
+          },
+          {
+            "title" : "Meet Bonnie"
+          },
+          {
+            "title" : "Two Birds, One Millstone"
+          },
+          {
+            "title" : "I Want You to Die"
+          },
+          {
+            "title" : "Hi, I'm Philip"
+          },
+          {
+            "title" : "What Did We Do?"
+          },
+          {
+            "title" : "What Happened to You, Annalise?"
+          },
+          {
+            "title" : "She Hates Us"
+          },
+          {
+            "title" : "It's a Trap"
+          },
+          {
+            "title" : "Something Bad Happened"
+          },
+          {
+            "title" : "There's My Baby"
+          },
+          {
+            "title" : "Anna Mae"
+          }
+        ]
+      },
+      {
+        "season" : 3,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "We're Good People Now"
+          },
+          {
+            "title" : "There Are Worse Things Than Murder"
+          },
+          {
+            "title" : "Always Bet Black"
+          },
+          {
+            "title" : "Don't Tell Annalise"
+          },
+          {
+            "title" : "It's About Frank"
+          },
+          {
+            "title" : "Is Someone Really Dead?"
+          },
+          {
+            "title" : "Call It Mother's Intuition"
+          },
+          {
+            "title" : "No More Blood"
+          },
+          {
+            "title" : "Who's Dead?"
+          },
+          {
+            "title" : "We're Bad People"
+          },
+          {
+            "title" : "Not Everything's About Annalise"
+          },
+          {
+            "title" : "Go Cry Somewhere Else"
+          },
+          {
+            "title" : "It's War"
+          },
+          {
+            "title" : "He Made a Terrible Mistake"
+          },
+          {
+            "title" : "Wes"
+          }
+        ]
+      },
+      {
+        "season" : 4,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "I'm Going Away"
+          },
+          {
+            "title" : "I'm Not Her"
+          },
+          {
+            "title" : "It's for the Greater Good"
+          },
+          {
+            "title" : "Was She Ever Good at Her Job?"
+          },
+          {
+            "title" : "I Love Her"
+          },
+          {
+            "title" : "Stay Strong, Mama"
+          },
+          {
+            "title" : "Nobody Roots for Goliath"
+          },
+          {
+            "title" : "Live. Live. Live."
+          },
+          {
+            "title" : "He's Dead"
+          },
+          {
+            "title" : "Everything We Did Was for Nothing"
+          },
+          {
+            "title" : "He's a Bad Father"
+          },
+          {
+            "title" : "Ask Him About Stella"
+          },
+          {
+            "title" : "Lahey v. Commonwealth of Pennsylvania (II)"
+          },
+          {
+            "title" : "The Day Before He Died"
+          },
+          {
+            "title" : "Nobody Else Is Dying"
+          }
+        ]
+      },
+      {
+        "season" : 5,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "Your Funeral"
+          },
+          {
+            "title" : "Whose Blood Is That?"
+          },
+          {
+            "title" : "The Baby Was Never Dead"
+          },
+          {
+            "title" : "It's Her Kid"
+          },
+          {
+            "title" : "It Was the Worst Day of My Life"
+          },
+          {
+            "title" : "We Can Find Him"
+          },
+          {
+            "title" : "I Got Played"
+          },
+          {
+            "title" : "I Want to Love You Until the Day I Die"
+          },
+          {
+            "title" : "He Betrayed Us Both"
+          },
+          {
+            "title" : "Don't Go Dark on Me"
+          },
+          {
+            "title" : "Be the Martyr"
+          },
+          {
+            "title" : "We Know Everything"
+          },
+          {
+            "title" : "Where Are My Parents?"
+          },
+          {
+            "title" : "Make Me the Enemy"
+          },
+          {
+            "title" : "Please Say No One Else Is Dead"
+          }
+        ]
+      },
+      {
+        "season" : 6,
+        "episodeCount" : 15,
+        "episodes" : [
+          {
+            "title" : "Say Goodbye"
+          },
+          {
+            "title" : "Vivian's Here"
+          },
+          {
+            "title" : "Do You Think I'm a Bad Man?"
+          },
+          {
+            "title" : "I Hate the World"
+          },
+          {
+            "title" : "We're All Gonna Die"
+          },
+          {
+            "title" : "Family Sucks"
+          },
+          {
+            "title" : "I'm the Murderer"
+          },
+          {
+            "title" : "I Want to Be Free"
+          },
+          {
+            "title" : "Are You the Mole?"
+          },
+          {
+            "title" : "We're Not Getting Away With It"
+          },
+          {
+            "title" : "The Reckoning"
+          },
+          {
+            "title" : "Let's Hurt Him"
+          },
+          {
+            "title" : "What If Sam Wasn't the Bad Guy This Whole Time?"
+          },
+          {
+            "title" : "Annalise Keating Is Dead"
+          },
+          {
+            "title" : "Stay"
+          }
+        ]
+      }
+    ],
+    "Genres" : [
+      {
+        "genre" : "Crime"
+      },
+      {
+        "genre" : "Drama"
+      },
+      {
+        "genre" : "Mystery"
+      }
+    ],
+    "updated" : "08. Aug 2021",
     "version" : "1.0",
     "added" : "26. Feb 2021",
     "info" : ""
