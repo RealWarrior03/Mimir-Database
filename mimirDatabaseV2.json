@@ -4,9 +4,6 @@
     "provider" : [
       {
         "name" : "Netflix"
-      },
-      {
-        "name" : "Apple TV+ (TEST)"
       }
     ],
     "release" : 2020,
